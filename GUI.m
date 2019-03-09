@@ -19,7 +19,7 @@
 % 1.1
 %
 %% Repositorio del proyecto
-% https://github.com/AlexJCM
+% https://github.com/AlexJCM/FiltrosMATLAB
 %
 
 

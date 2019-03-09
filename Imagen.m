@@ -1,3 +1,5 @@
+%% 
+%%
 classdef Imagen
     properties
         imagen
